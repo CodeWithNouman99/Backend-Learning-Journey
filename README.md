@@ -1,5 +1,4 @@
 # Backend Learning
-
 A backend development practice repository built while learning **Node.js**, **Express.js**, and **MongoDB**. This project focuses on understanding backend architecture, REST APIs, database integration, authentication, and best practices used in real-world applications.
 
 ## 🚀 Tech Stack
