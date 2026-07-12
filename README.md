@@ -94,11 +94,6 @@ npm run dev
 * Image Uploads
 * Deployment
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
-
-
 ---
 
 ### 👨‍💻 Author
